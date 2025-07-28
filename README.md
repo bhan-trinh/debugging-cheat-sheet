@@ -1,6 +1,12 @@
 # Debugging Cheat Sheet
 A sheet of common bugs and errors I often run into and how to quickly resolve them with explanations. 
 
+## Contents
+
+- [React Native](#react-native)
+- [SQL](#sql)
+- [Git](#git)
+
 ## REACT NATIVE
 
 - ```Execution failed for task ':app:checkDebugDuplicateClasses```
