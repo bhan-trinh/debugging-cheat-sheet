@@ -1,5 +1,5 @@
 # Debugging Cheat Sheet
-A sheet of common bugs I run into and how to quickly resolve them with explanations 
+A sheet of common bugs and errors I often run into and how to quickly resolve them with explanations. 
 
 ## REACT NATIVE
 
